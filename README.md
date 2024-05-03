@@ -7,4 +7,4 @@ Live Preview link:
 
 https://pbain63.github.io/odin-recipes
 
-Technology: HTML5, CSS
+Technology: HTML5, CSS3
